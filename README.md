@@ -2,14 +2,6 @@
 
 This project implements a simple Database Management System (DBMS) in C++. The DBMS allows users to create tables, insert records, load and save data from/to CSV files, read records, update records based on conditions, and delete records based on conditions.
 
-## Table of Contents
-1. [Overview](#overview)
-2. [Getting Started](#getting-started)
-3. [Usage](#usage)
-4. [File Structure](#file-structure)
-5. [Contributing](#contributing)
-6. [License](#license)
-
 ## Overview
 
 The project consists of a `DB` class that provides basic database functionalities. It manages tables, records, and supports operations commonly found in relational databases. The data is stored in CSV files for simplicity.
