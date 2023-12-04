@@ -1,4 +1,4 @@
-# Mini_Database-Application
+# Mini-Database-Application
 
 This project implements a simple Database Management System (DBMS) in C++. The DBMS allows users to create tables, insert records, load and save data from/to CSV files, read records, update records based on conditions, and delete records based on conditions.
 
